@@ -86,10 +86,37 @@ li{
 }
 .p5{
     display: flex;
+    margin-top: 70px;
 }
 .container{
     display: flex;
 }
 .p5 image1p5{
     margin: 50px;
+}
+.p6lastsheet img{
+    border-radius: 60px;
+}
+.p6lastsheet{
+    display: flex;
+    margin-top: 220px;
+    margin-left: -63px;
+}
+.p71st{
+    margin: 80px;
+}
+.p7img{
+    margin-top: -260px;
+}
+.cont{
+    margin: 65px;
+}
+.p7{
+    display: flex;
+}
+.p72nd{
+    margin: 75px ;
+}
+.p8{
+    margin: 105px;
 }
