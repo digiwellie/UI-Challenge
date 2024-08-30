@@ -120,3 +120,34 @@ li{
 .p8{
     margin: 105px;
 }
+.bgimg{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+.cont9{
+    text-align: center;
+}
+.p9form{
+    text-align: center;
+    padding: 45px;
+}
+.p10{
+    display: flex;
+    margin: 35px;
+}
+.p10_2{
+    margin: 0 75px;
+}
+.p10_3{
+    margin: 0 75px;
+}
+.p10_4{
+    margin: 0 75px;
+}
+.last_p{
+    text-align: center;
+    font-size: 12px;
+}
+
