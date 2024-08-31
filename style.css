@@ -59,12 +59,48 @@ li{
     list-style-type: none;
     display: flex;
 }
-.p3h{
+.cont_3{
     text-align: center;
 }
-.p3sec ul{
-    list-style-type: none;
+.p3flex{
     display: flex;
+    margin: 0 220px;
+}
+.img1{
+    position: relative;
+}
+.cont1{
+    position: absolute;
+    top: 1525px;
+    left: 275px;
+    background-color: white;
+    padding: 17px;
+    width: 173px;
+    text-align: center;
+}
+.img2{
+    position: relative;
+}
+.cont2{
+    position: absolute;
+    top: 1525px;
+    left: 575px;
+    background-color: white;
+    padding: 17px;
+    width: 173px;
+    text-align: center;
+}
+.img3{
+    position: relative;
+}
+.cont3{
+    position: absolute;
+    top: 1525px;
+    left: 875px;
+    background-color: white;
+    padding: 17px;
+    width: 173px;
+    text-align: center;
 }
 .p4head{
     margin: 25px;
